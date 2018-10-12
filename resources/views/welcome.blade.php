@@ -43,7 +43,7 @@
               <a class="nav-link" href="#NuestrosTrabajos">Nuestros Trabajos</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#Contactanos">Contactanos</a>
+              <a class="nav-link" href="#Contactanos">Contáctanos</a>
             </li>
           </ul>
         </div>
@@ -113,7 +113,7 @@
           </div>
 
           <div class="col-6 col-md-4">
-           <h4><strong>Contactenos</strong></h4>
+           <h4><strong>Contáctanos</strong></h4>
             <form>
               <div class="form-group">
                 <input type="text" class="form-control" name="" value="" placeholder="Nombre">
